@@ -464,9 +464,15 @@ if uploaded_file:
             st.write("- ")
             st.write("- ")
             st.subheader('Giải pháp:')
-            st.write("- ")
-            st.write("- ")
-            st.write("- ")
+            st.write("- Tăng doanh thu cho các danh mục có biên lợi nhuận cao.")
+            st.write("- Giảm thiểu danh mục có doanh thu thấp, lợi nhuận thấp.")
+            st.write("- Phân tích xu hướng mua hàng, đánh giá xem danh mục nào có tiềm năng tăng trưởng.")
+            st.write("- Thử nghiệm chiến dịch tiếp thị trong 3-6 tháng để đo lường hiệu quả của việc tập trung vào danh mục có lợi nhuận cao.")
+            st.write("- Xem xét dữ liệu bán hàng theo quý, nếu danh mục không cải thiện, cân nhắc thay thế bằng sản phẩm khác.")
+            st.write("- Tối ưu chi phí để tăng lợi nhuận.")
+            st.write("- Ổn định doanh thu để giảm rủi ro.")
+            st.write("-	Tăng lợi nhuận bằng cách cải thiện biên lợi nhuận.")
+            st.write("-	Dự báo và lập kế hoạch tài chính.")
 
     else:
         st.error("File dữ liệu không có cột 'Country'. Vui lòng kiểm tra lại.")
