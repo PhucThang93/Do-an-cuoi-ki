@@ -471,8 +471,8 @@ if uploaded_file:
             st.write("- Xem xét dữ liệu bán hàng theo quý, nếu danh mục không cải thiện, cân nhắc thay thế bằng sản phẩm khác.")
             st.write("- Tối ưu chi phí để tăng lợi nhuận.")
             st.write("- Ổn định doanh thu để giảm rủi ro.")
-            st.write("-	Tăng lợi nhuận bằng cách cải thiện biên lợi nhuận.")
-            st.write("-	Dự báo và lập kế hoạch tài chính.")
+            st.write("- Tăng lợi nhuận bằng cách cải thiện biên lợi nhuận.")
+            st.write("- Dự báo và lập kế hoạch tài chính.")
 
     else:
         st.error("File dữ liệu không có cột 'Country'. Vui lòng kiểm tra lại.")
